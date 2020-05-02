@@ -2,7 +2,11 @@
 
 This project is build using a great technology called as DOCKER with the help of python access local system. Docker can launch the O.S. within 1 sec and it has MySQL to permanent storage of the data.
 
-***PROJECT CRITERIA***
+#***PROJECT CRITERIA***
+
+
+
+
 **KEY FEATURES OF LOCAL**
          > To see date
          > Calander 
