@@ -83,4 +83,4 @@ Press 8 " Stop the Running Site
                     elif l==3:
                         print("Tell me Your Os container name ")
                         k = input()
-                        os.system("docker run -it --name {} Deepika:v1".format(k))
+                        os.system("docker run -it --name {} Devx:v1".format(k))
